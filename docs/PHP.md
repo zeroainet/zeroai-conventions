@@ -1,7 +1,8 @@
 
- 团队协作约定
+ [团队协作约定](#code)
 ====
 
+<<<<<<< HEAD
 索引
 ----
 >[PHP编码规范](#PHP)
@@ -15,6 +16,10 @@
 ----
 
 >[PHP编码规范](#PHP)
+=======
+[团队协作约定](#code)
+一、各语言编码规范
+>>>>>>> branch 'master' of https://github.com/zeroainet/zeroai-conventions.git
 ----
 
 >[第一章 文件结构](https://github.com/tinycn/tinyphp/blob/master/docs/001-%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/001%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.md)
