@@ -2,10 +2,19 @@
  团队协作约定
 ====
 
+索引
+----
+>[PHP编码规范](#PHP)
 
-一、各语言编码规范
+>[SQL编码规范](#SQL)
+
+
+
+一、语言编码规范
 ----
 
+>[PHP编码规范](#PHP)
+----
 >[第一章 文件结构](https://github.com/tinycn/tinyphp/blob/master/docs/001-%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/001%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.md)
 
 >[第二章 程序的排版](https://github.com/tinycn/tinyphp/blob/master/docs/001-%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/002%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%8E%92%E7%89%88.md)
